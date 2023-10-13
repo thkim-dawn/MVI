@@ -35,5 +35,3 @@
 * GalleryPagingSourceTest - PagingSource 관련 테스트
 * GalleryUseCaseTest - PagingData 관련 테스트
 
-  ![image](https://user-images.githubusercontent.com/9432331/266658502-0056ca35-bdad-4bd7-ae98-f9e7375750a8.png)
-
